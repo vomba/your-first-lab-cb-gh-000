@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 work for fuck sake
+=======
+work for fuck sake
+>>>>>>> 0ab454af6c4f20c55d6bb99d953bde57efde8347
